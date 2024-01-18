@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/atbash-cipher/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/atbash-cipher.dir/atbash_cipher_test.cpp.o -c /home/vboxuser/exercism/cpp/atbash-cipher/atbash_cipher_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/atbash-cipher/atbash_cipher_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/atbash-cipher/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/atbash-cipher.dir/atbash_cipher.cpp.o -c /home/vboxuser/exercism/cpp/atbash-cipher/atbash_cipher.cpp",
+  "file": "/home/vboxuser/exercism/cpp/atbash-cipher/atbash_cipher.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/atbash-cipher/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/atbash-cipher.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/atbash-cipher/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/atbash-cipher/test/tests-main.cpp"
+}
+]
