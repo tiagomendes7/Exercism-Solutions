@@ -1,6 +1,6 @@
 # Exercism Solutions
 
-![Exercism Logo](https://avatars.githubusercontent.com/u/56242516?s=200&v=4)
+![Exercism Logo](https://github.com/exercism/website-icons/blob/main/exercism/logo-icon.svg)
 
 Welcome to my Exercism Solutions repository! Here, you'll find my solutions to various coding exercises from [Exercism](https://exercism.io/), a platform designed to help you improve your coding skills through practice and mentorship.
 
