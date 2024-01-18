@@ -32,7 +32,7 @@ Feel free to explore solutions in your preferred language!
 
 The repository is organized by language, with each language having its own directory. Inside each language directory, you'll find the solutions categorized by the Exercism tracks (e.g., Python/Arrays, JavaScript/Strings).
 
-
+    
 Exercism-Solutions/
 ├── Python/
 │ ├── Arrays/
