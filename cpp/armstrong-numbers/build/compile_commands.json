@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/armstrong-numbers/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/armstrong-numbers.dir/armstrong_numbers_test.cpp.o -c /home/vboxuser/exercism/cpp/armstrong-numbers/armstrong_numbers_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/armstrong-numbers/armstrong_numbers_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/armstrong-numbers/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/armstrong-numbers.dir/armstrong_numbers.cpp.o -c /home/vboxuser/exercism/cpp/armstrong-numbers/armstrong_numbers.cpp",
+  "file": "/home/vboxuser/exercism/cpp/armstrong-numbers/armstrong_numbers.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/armstrong-numbers/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/armstrong-numbers.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/armstrong-numbers/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/armstrong-numbers/test/tests-main.cpp"
+}
+]

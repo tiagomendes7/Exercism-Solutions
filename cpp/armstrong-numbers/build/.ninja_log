@@ -1,0 +1,19 @@
+# ninja log v5
+3	649	1705570700572035031	CMakeFiles/armstrong-numbers.dir/armstrong_numbers.cpp.o	7e995a4aa9a4a518
+0	1119	1705570701043799030	CMakeFiles/armstrong-numbers.dir/armstrong_numbers_test.cpp.o	776ae4d2cb338911
+5	14649	1705570714533051026	CMakeFiles/armstrong-numbers.dir/test/tests-main.cpp.o	a6c5acf4f7c6e9ca
+14649	15178	1705570715100767027	armstrong-numbers	26f4d71bb4df4688
+15178	15185	0	CMakeFiles/test_armstrong-numbers	826763d250398488
+15178	15185	0	/home/vboxuser/exercism/cpp/armstrong-numbers/build/CMakeFiles/test_armstrong-numbers	826763d250398488
+1	841	1705570729297665019	CMakeFiles/armstrong-numbers.dir/armstrong_numbers_test.cpp.o	776ae4d2cb338911
+841	1431	1705570729881373020	armstrong-numbers	26f4d71bb4df4688
+1431	1435	0	CMakeFiles/test_armstrong-numbers	826763d250398488
+1431	1435	0	/home/vboxuser/exercism/cpp/armstrong-numbers/build/CMakeFiles/test_armstrong-numbers	826763d250398488
+1	753	1705570738980821017	CMakeFiles/armstrong-numbers.dir/armstrong_numbers_test.cpp.o	776ae4d2cb338911
+753	1142	1705570739368627016	armstrong-numbers	26f4d71bb4df4688
+1142	1148	0	CMakeFiles/test_armstrong-numbers	826763d250398488
+1142	1148	0	/home/vboxuser/exercism/cpp/armstrong-numbers/build/CMakeFiles/test_armstrong-numbers	826763d250398488
+3	336	1705571005978227800	CMakeFiles/armstrong-numbers.dir/armstrong_numbers.cpp.o	7e995a4aa9a4a518
+336	769	1705571006406441800	armstrong-numbers	26f4d71bb4df4688
+769	772	0	CMakeFiles/test_armstrong-numbers	826763d250398488
+769	772	0	/home/vboxuser/exercism/cpp/armstrong-numbers/build/CMakeFiles/test_armstrong-numbers	826763d250398488
