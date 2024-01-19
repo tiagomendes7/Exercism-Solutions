@@ -32,17 +32,17 @@ The repository is organized by language, with each language having its own direc
   
 
 Exercism-Solutions/  
-  ├── Python/  
-  │ ├── Arrays/  
-  │ ├── Strings/  
+  ├── python/  
+  │ ├── allergies/  
+  │ ├── armstrong-numbers/  
   │ └── ...  
-  ├── JavaScript/  
-  │ ├── Arrays/  
-  │ ├── Strings/  
+  ├── java/  
+  │ ├── allergies/  
+  │ ├── armstrong-numbers/  
   │ └── ...  
-  ├── Java/  
-  │ ├── Arrays/   
-  │ ├── Strings/   
+  ├── cpp/  
+  │ ├── allergies/   
+  │ ├── armstrong-numbers/   
   │ └── ...  
   └── ...  
   
