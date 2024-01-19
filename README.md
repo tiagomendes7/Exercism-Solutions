@@ -22,7 +22,6 @@ Welcome to my Exercism Solutions repository! Here, you'll find my solutions to v
 I've worked on exercises in multiple programming languages, including but not limited to:
 
 - [Python](https://www.python.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Java](https://www.java.com/)
 - [C++](https://isocpp.org/)
 
