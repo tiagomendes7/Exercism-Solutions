@@ -10,7 +10,6 @@ Welcome to my Exercism Solutions repository! Here, you'll find my solutions to v
 - [Languages](#languages)
 - [Structure of the Repository](#structure-of-the-repository)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About Exercism
@@ -54,10 +53,6 @@ Exercism-Solutions/
 2. Explore the exercises within each track.
 3. Review the solution files and compare with your own solutions.
 4. Learn, adapt, and improve!
-
-## Contributing
-
-If you have solutions to exercises that are not already included or have improvements to existing solutions, feel free to contribute! Please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
