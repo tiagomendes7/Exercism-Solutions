@@ -1,4 +1,0 @@
-/home/vboxuser/exercism/cpp/atbash-cipher/build/CMakeFiles/atbash-cipher.dir
-/home/vboxuser/exercism/cpp/atbash-cipher/build/CMakeFiles/test_atbash-cipher.dir
-/home/vboxuser/exercism/cpp/atbash-cipher/build/CMakeFiles/edit_cache.dir
-/home/vboxuser/exercism/cpp/atbash-cipher/build/CMakeFiles/rebuild_cache.dir
