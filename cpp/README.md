@@ -33,7 +33,7 @@ The repository is organized by Exercism exercise. Inside each exercise directory
 
 ## License
 
-This project is licensed under the GNU GPL v3 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GPL v3 License - see the [GNU GPLv3](LICENSE). file for details.
 
 ## Acknowledgments
 
