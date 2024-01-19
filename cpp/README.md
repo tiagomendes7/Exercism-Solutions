@@ -1,6 +1,6 @@
 # Exercism C++ Solutions
 
-![Exercism Logo](https://raw.githubusercontent.com/exercism/core-assets/main/site-icon/exercism-icon-color-512.png)
+![Exercism Logo](https://github.com/exercism/website-icons/blob/main/exercism/logo-icon.svg)
 
 This repository contains my solutions to exercises from the [Exercism C++ track](https://exercism.io/tracks/cpp). 
 Exercism provides a platform for coding practice and mentorship, helping developers improve their skills in various programming languages.
