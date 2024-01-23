@@ -10,7 +10,6 @@ Welcome to my Exercism Solutions repository! Here, you'll find my solutions to v
 - [Languages](#languages)
 - [Structure of the Repository](#structure-of-the-repository)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About Exercism
@@ -22,7 +21,6 @@ Welcome to my Exercism Solutions repository! Here, you'll find my solutions to v
 I've worked on exercises in multiple programming languages, including but not limited to:
 
 - [Python](https://www.python.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Java](https://www.java.com/)
 - [C++](https://isocpp.org/)
 
@@ -34,17 +32,17 @@ The repository is organized by language, with each language having its own direc
   
 
 Exercism-Solutions/  
-  ├── Python/  
-  │ ├── Arrays/  
-  │ ├── Strings/  
+  ├── python/  
+  │ ├── allergies/  
+  │ ├── armstrong-numbers/  
   │ └── ...  
-  ├── JavaScript/  
-  │ ├── Arrays/  
-  │ ├── Strings/  
+  ├── java/  
+  │ ├── allergies/  
+  │ ├── armstrong-numbers/  
   │ └── ...  
-  ├── Java/  
-  │ ├── Arrays/   
-  │ ├── Strings/   
+  ├── cpp/  
+  │ ├── allergies/   
+  │ ├── armstrong-numbers/   
   │ └── ...  
   └── ...  
   
@@ -55,10 +53,6 @@ Exercism-Solutions/
 2. Explore the exercises within each track.
 3. Review the solution files and compare with your own solutions.
 4. Learn, adapt, and improve!
-
-## Contributing
-
-If you have solutions to exercises that are not already included or have improvements to existing solutions, feel free to contribute! Please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
