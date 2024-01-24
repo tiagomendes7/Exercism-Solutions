@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/darts/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/darts.dir/darts_test.cpp.o -c /home/vboxuser/exercism/cpp/darts/darts_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/darts/darts_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/darts/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/darts.dir/darts.cpp.o -c /home/vboxuser/exercism/cpp/darts/darts.cpp",
+  "file": "/home/vboxuser/exercism/cpp/darts/darts.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/darts/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/darts.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/darts/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/darts/test/tests-main.cpp"
+}
+]
