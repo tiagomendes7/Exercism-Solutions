@@ -1,4 +1,0 @@
-/home/vboxuser/exercism/cpp/darts/build/CMakeFiles/darts.dir
-/home/vboxuser/exercism/cpp/darts/build/CMakeFiles/test_darts.dir
-/home/vboxuser/exercism/cpp/darts/build/CMakeFiles/edit_cache.dir
-/home/vboxuser/exercism/cpp/darts/build/CMakeFiles/rebuild_cache.dir
