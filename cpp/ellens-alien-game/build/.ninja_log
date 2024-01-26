@@ -1,0 +1,18 @@
+# ninja log v5
+0	1175	1705058578934281571	CMakeFiles/ellens-alien-game.dir/ellens_alien_game_test.cpp.o	e5a9738e452a7abb
+1	9654	1705058587382503265	CMakeFiles/ellens-alien-game.dir/test/tests-main.cpp.o	fdadfecccda94e6b
+9654	10263	1705058588018821242	ellens-alien-game	d080a5a15980f0c9
+10263	10266	0	CMakeFiles/test_ellens-alien-game	acfba4a32ae1c3ac
+10263	10266	0	/home/vboxuser/exercism/cpp/ellens-alien-game/build/CMakeFiles/test_ellens-alien-game	acfba4a32ae1c3ac
+6	862	1705058597823720887	CMakeFiles/ellens-alien-game.dir/ellens_alien_game_test.cpp.o	e5a9738e452a7abb
+862	1570	1705058598528072861	ellens-alien-game	d080a5a15980f0c9
+1571	1578	0	CMakeFiles/test_ellens-alien-game	acfba4a32ae1c3ac
+1571	1578	0	/home/vboxuser/exercism/cpp/ellens-alien-game/build/CMakeFiles/test_ellens-alien-game	acfba4a32ae1c3ac
+1	723	1705058614864236269	CMakeFiles/ellens-alien-game.dir/ellens_alien_game_test.cpp.o	e5a9738e452a7abb
+723	1146	1705058615280444254	ellens-alien-game	d080a5a15980f0c9
+1146	1151	0	CMakeFiles/test_ellens-alien-game	acfba4a32ae1c3ac
+1146	1151	0	/home/vboxuser/exercism/cpp/ellens-alien-game/build/CMakeFiles/test_ellens-alien-game	acfba4a32ae1c3ac
+1	625	1705058623476539958	CMakeFiles/ellens-alien-game.dir/ellens_alien_game_test.cpp.o	e5a9738e452a7abb
+625	1026	1705058623872737943	ellens-alien-game	d080a5a15980f0c9
+1026	1033	0	CMakeFiles/test_ellens-alien-game	acfba4a32ae1c3ac
+1026	1033	0	/home/vboxuser/exercism/cpp/ellens-alien-game/build/CMakeFiles/test_ellens-alien-game	acfba4a32ae1c3ac

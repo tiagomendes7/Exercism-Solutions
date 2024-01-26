@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/ellens-alien-game/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/ellens-alien-game.dir/ellens_alien_game_test.cpp.o -c /home/vboxuser/exercism/cpp/ellens-alien-game/ellens_alien_game_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/ellens-alien-game/ellens_alien_game_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/ellens-alien-game/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/ellens-alien-game.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/ellens-alien-game/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/ellens-alien-game/test/tests-main.cpp"
+}
+]
