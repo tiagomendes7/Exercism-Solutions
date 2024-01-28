@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/freelancer-rates/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/freelancer-rates.dir/freelancer_rates_test.cpp.o -c /home/vboxuser/exercism/cpp/freelancer-rates/freelancer_rates_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/freelancer-rates/freelancer_rates_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/freelancer-rates/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/freelancer-rates.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/freelancer-rates/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/freelancer-rates/test/tests-main.cpp"
+}
+]
