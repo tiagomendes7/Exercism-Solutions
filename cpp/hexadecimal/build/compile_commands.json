@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/hexadecimal/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/hexadecimal.dir/hexadecimal_test.cpp.o -c /home/vboxuser/exercism/cpp/hexadecimal/hexadecimal_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/hexadecimal/hexadecimal_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/hexadecimal/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/hexadecimal.dir/hexadecimal.cpp.o -c /home/vboxuser/exercism/cpp/hexadecimal/hexadecimal.cpp",
+  "file": "/home/vboxuser/exercism/cpp/hexadecimal/hexadecimal.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/hexadecimal/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/hexadecimal.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/hexadecimal/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/hexadecimal/test/tests-main.cpp"
+}
+]

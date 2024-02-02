@@ -1,0 +1,4 @@
+/home/vboxuser/exercism/cpp/hexadecimal/build/CMakeFiles/hexadecimal.dir
+/home/vboxuser/exercism/cpp/hexadecimal/build/CMakeFiles/test_hexadecimal.dir
+/home/vboxuser/exercism/cpp/hexadecimal/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/exercism/cpp/hexadecimal/build/CMakeFiles/rebuild_cache.dir
