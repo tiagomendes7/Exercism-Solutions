@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/interest-is-interesting/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/interest-is-interesting.dir/interest_is_interesting_test.cpp.o -c /home/vboxuser/exercism/cpp/interest-is-interesting/interest_is_interesting_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/interest-is-interesting/interest_is_interesting_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/interest-is-interesting/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/interest-is-interesting.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/interest-is-interesting/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/interest-is-interesting/test/tests-main.cpp"
+}
+]

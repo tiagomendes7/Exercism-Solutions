@@ -1,0 +1,4 @@
+/home/vboxuser/exercism/cpp/interest-is-interesting/build/CMakeFiles/interest-is-interesting.dir
+/home/vboxuser/exercism/cpp/interest-is-interesting/build/CMakeFiles/test_interest-is-interesting.dir
+/home/vboxuser/exercism/cpp/interest-is-interesting/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/exercism/cpp/interest-is-interesting/build/CMakeFiles/rebuild_cache.dir
