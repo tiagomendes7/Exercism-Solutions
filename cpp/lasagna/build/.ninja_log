@@ -1,0 +1,8 @@
+# ninja log v5
+0	527	1704823556349133315	CMakeFiles/lasagna.dir/lasagna_test.cpp.o	491cebb39eaf5f58
+1	7618	1704823563420667317	CMakeFiles/lasagna.dir/test/tests-main.cpp.o	78d28281400abc0f
+7618	7848	1704823563664789316	lasagna	fd5336ef68c772b
+9	672	1704823947504617913	CMakeFiles/lasagna.dir/lasagna_test.cpp.o	491cebb39eaf5f58
+672	1013	1704823947840785914	lasagna	fd5336ef68c772b
+1013	1016	0	CMakeFiles/test_lasagna	19002235e6134d68
+1013	1016	0	/home/vboxuser/exercism/cpp/lasagna/build/CMakeFiles/test_lasagna	19002235e6134d68

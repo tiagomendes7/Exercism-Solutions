@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/lasagna/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/lasagna.dir/lasagna_test.cpp.o -c /home/vboxuser/exercism/cpp/lasagna/lasagna_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/lasagna/lasagna_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/lasagna/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/lasagna.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/lasagna/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/lasagna/test/tests-main.cpp"
+}
+]
