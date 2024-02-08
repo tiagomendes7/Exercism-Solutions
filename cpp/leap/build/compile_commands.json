@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/leap/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/leap.dir/leap_test.cpp.o -c /home/vboxuser/exercism/cpp/leap/leap_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/leap/leap_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/leap/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/leap.dir/leap.cpp.o -c /home/vboxuser/exercism/cpp/leap/leap.cpp",
+  "file": "/home/vboxuser/exercism/cpp/leap/leap.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/leap/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/leap.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/leap/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/leap/test/tests-main.cpp"
+}
+]
