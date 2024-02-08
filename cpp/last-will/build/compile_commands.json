@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/last-will/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/last-will.dir/last_will_test.cpp.o -c /home/vboxuser/exercism/cpp/last-will/last_will_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/last-will/last_will_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/last-will/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -Wno-unused-parameter -o CMakeFiles/last-will.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/last-will/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/last-will/test/tests-main.cpp"
+}
+]

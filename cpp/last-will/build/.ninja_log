@@ -1,0 +1,10 @@
+# ninja log v5
+0	1265	1704879075434057737	CMakeFiles/last-will.dir/last_will_test.cpp.o	473a53ac3feb8b8b
+12	13834	1704879087959791734	CMakeFiles/last-will.dir/test/tests-main.cpp.o	14af587a8324ad61
+13835	14475	1704879088631455734	last-will	3cff6a908cb95bbb
+14475	14479	0	CMakeFiles/test_last-will	b14b228f8d82f6db
+14475	14479	0	/home/vboxuser/exercism/cpp/last-will/build/CMakeFiles/test_last-will	b14b228f8d82f6db
+2	695	1704879369381005662	CMakeFiles/last-will.dir/last_will_test.cpp.o	473a53ac3feb8b8b
+695	1042	1704879369720835662	last-will	3cff6a908cb95bbb
+1043	1047	0	CMakeFiles/test_last-will	b14b228f8d82f6db
+1043	1047	0	/home/vboxuser/exercism/cpp/last-will/build/CMakeFiles/test_last-will	b14b228f8d82f6db
