@@ -1,0 +1,4 @@
+/home/vboxuser/exercism/cpp/luhn/build/CMakeFiles/luhn.dir
+/home/vboxuser/exercism/cpp/luhn/build/CMakeFiles/test_luhn.dir
+/home/vboxuser/exercism/cpp/luhn/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/exercism/cpp/luhn/build/CMakeFiles/rebuild_cache.dir

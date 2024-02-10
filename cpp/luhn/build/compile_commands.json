@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/vboxuser/exercism/cpp/luhn/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/luhn.dir/luhn_test.cpp.o -c /home/vboxuser/exercism/cpp/luhn/luhn_test.cpp",
+  "file": "/home/vboxuser/exercism/cpp/luhn/luhn_test.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/luhn/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/luhn.dir/luhn.cpp.o -c /home/vboxuser/exercism/cpp/luhn/luhn.cpp",
+  "file": "/home/vboxuser/exercism/cpp/luhn/luhn.cpp"
+},
+{
+  "directory": "/home/vboxuser/exercism/cpp/luhn/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/luhn.dir/test/tests-main.cpp.o -c /home/vboxuser/exercism/cpp/luhn/test/tests-main.cpp",
+  "file": "/home/vboxuser/exercism/cpp/luhn/test/tests-main.cpp"
+}
+]
