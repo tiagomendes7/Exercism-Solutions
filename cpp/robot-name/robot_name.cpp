@@ -20,9 +20,9 @@ namespace robot_name {
         std::uniform_int_distribution<int> letters_dist('A', 'Z');
         std::uniform_int_distribution<int> numbers_dist(0, 9);
 
-        // Reset the name
+        // The name must start as an empty string
         name_ = "";
-        
+
         // Generate two random uppercase letters
         name_.append(1, static_cast<char>( letters_dist(rng)) );
         name_.append(1, static_cast<char>( letters_dist(rng)) );
