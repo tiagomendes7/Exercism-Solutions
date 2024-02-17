@@ -4,14 +4,14 @@ namespace robot_name {
 
     robot::robot()
     {      
-        generate_name();
+        name_ = generate_name();
     }
     
     robot::~robot()
     {
     }
     
-    void robot::generate_name()
+    std::string robot::generate_name()
     {
         // Seed the random number generator with the current time
         std::mt19937 rng(std::random_device{}());
@@ -21,16 +21,18 @@ namespace robot_name {
         std::uniform_int_distribution<int> numbers_dist(0, 9);
 
         // The name must start as an empty string
-        name_ = "";
+        std::string name_aux {};
 
         // Generate two random uppercase letters
-        name_.append(1, static_cast<char>( letters_dist(rng)) );
-        name_.append(1, static_cast<char>( letters_dist(rng)) );
+        name_aux.append(1, static_cast<char>( letters_dist(rng)) );
+        name_aux.append(1, static_cast<char>( letters_dist(rng)) );
 
         // Generate three random digits
-        name_ += std::to_string(numbers_dist(rng));
-        name_ += std::to_string(numbers_dist(rng));
-        name_ += std::to_string(numbers_dist(rng));
+        name_aux += std::to_string(numbers_dist(rng));
+        name_aux += std::to_string(numbers_dist(rng));
+        name_aux += std::to_string(numbers_dist(rng));
+
+        return name_aux; 
     }
     
     std::string robot::name() const
@@ -40,7 +42,13 @@ namespace robot_name {
 
     void robot::reset()
     {
-        generate_name();    
+        name_ = generate_name();
+
+        while( names.count(name_) != 0 )
+            name_ = generate_name();
+        
+        names.insert(name_);
     }
 
 }  // namespace robot_name
+ 

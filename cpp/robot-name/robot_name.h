@@ -5,6 +5,7 @@
 #include <random>
 #include <ctime>
 #include <cstdio>
+#include <unordered_set>
 
 namespace robot_name {
 
@@ -12,13 +13,15 @@ namespace robot_name {
     {
     private:
         std::string name_ {};
+        std::unordered_set<std::string> names = {""};
+
     public:
 
         robot();
         ~robot();
 
         std::string name() const;
-        void generate_name();
+        std::string generate_name();
         void reset();
     };
     
